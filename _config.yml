@@ -1,0 +1,7 @@
+title: SoundReact
+show_downloads: true
+description:
+google_analytics:
+theme: jekyll-theme-architect
+plugins:
+  - jekyll-seo-tag
